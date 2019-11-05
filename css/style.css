@@ -1,0 +1,18 @@
+body{
+    background-image: url("../img/dus1.jpg");
+    background-repeat: no-repeat ;
+    background-size: cover;
+    margin: 0 10% 0 10%;
+    color: ivory;
+    font-size: larger;
+    font-family: 'Indie Flower', cursive;
+}
+.main{
+    background-color: rgba(100, 101, 101, 0.8);
+    width: 80%;
+    height: 50vh;
+    padding: 5%;
+}
+.jc{
+    width: 15%;
+}
